@@ -1,0 +1,1 @@
+have a look at the diagram in your browser ==> [click](https://madewe.github.io/kubernetes-diagram/ "https://madewe.github.io/kubernetes-diagram/")
